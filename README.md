@@ -1,2 +1,2 @@
 # lvim
-LVIM dotfiles
+LunarVim dotfiles
